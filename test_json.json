@@ -1,0 +1,21 @@
+{
+    "statusCode": 200,
+    "item": {
+        "product": "B20101",
+        "cycle": 0,
+        "manager": "01092830640",
+        "delivery_time": 0,
+        "status": "STOCK",
+        "wh_location": "LALA_YONGIN",
+        "process_time": 1690434466,
+        "dep": 1000,
+        "package_box": "KR-A-2579",
+        "return_ECIS": "x",
+        "dep_status": true,
+        "client": "x",
+        "customer": "x",
+        "order_Id": "x",
+        "banking_num": "x",
+        "QR_value": "KRAB2010123072400847"
+    }
+}
